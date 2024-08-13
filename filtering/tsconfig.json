@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true, // use strict 사용
+    "target": "es2016", // 컴파일 문법
+    "module": "commonjs", // 모듈 포맷
+    "outDir": "./dist", // 저장 폴더
+    "resolveJsonModule": true
+  }
+}
